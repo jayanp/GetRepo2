@@ -10,6 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            string Test1 = "My var1";
+            Console.WriteLine ("Time" + System.DateTime.Now.ToLocalTime());
+            Console.ReadLine();
 
         }
     }
