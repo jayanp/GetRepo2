@@ -15,6 +15,8 @@ namespace ConsoleApplication1
             Console.ReadLine();
 
             Console.WriteLine("Test2");  // Comment 2
+            Console.WriteLine("Test3");
+
 
         }
     }
